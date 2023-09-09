@@ -1,0 +1,60 @@
+1. Write a Dart program to print "Hello, World!" to the console.
+2. Create variables for storing an integer, a double, and a string, and print them. 
+3. Perform arithmetic operations (addition, subtraction, multiplication, division) on two numbers.
+4. Concatenate two strings in Dart.
+5. Write a Dart program to swap the values of two variables without using a temporary variable.
+6. Calculate the area of a rectangle using length and width values.
+7. Create a Dart program to find the square of a number.
+8. Calculate the perimeter of a square given its side length.
+9. Write a Dart program to find the cube of a number.
+10. Calculate the area of a circle given its radius.
+11. Write a Dart program to check if a number is even or odd.
+12. Create a program to find the largest of three numbers.
+13. Check if a number is positive, negative, or zero.
+14. Write a Dart program to check if a year is a leap year.
+15. Calculate the factorial of a number using a loop.
+16. Find the sum of natural numbers up to a given limit.
+17. Check if a number is prime or not.
+18. Print the Fibonacci series up to a specified number of terms.
+19. Create a Dart program to find the GCD of two numbers.
+20. Generate a multiplication table for a given number.
+21. Create a program that calculates the square root of a number.
+22. Write a Dart program that computes the average of three numbers.
+23. Implement a program that calculates the hypotenuse of a right triangle using the Pythagorean theorem.
+24. Calculate the perimeter of a circle given its radius.
+25. Write a Dart program that converts a time duration from seconds to hours, minutes, and seconds.
+26. Create a program that calculates the sum of digits in a positive integer.
+27. Implement a program that finds the largest and smallest numbers among three integers.
+28. Write a Dart program that generates a random number between a specified range.
+29. Create a program that converts a binary number to a decimal number.
+30. Calculate the area of a parallelogram using its base and height.
+31. Write a Dart program that computes the absolute value of a number.
+32. Create a program that calculates the average speed of a vehicle based on distance and time.
+33. Implement a program that checks if a given number is a perfect square.
+34. Calculate the volume of a cube given the length of its sides.
+35. Write a Dart program that rounds a floating-point number to the nearest integer.
+36. Create a program that generates a simple multiplication quiz for practice.
+37. Calculate the area of a pentagon given its apothem and side length.
+38. Write a Dart program that checks if a number is a positive integer.
+39. Implement a program that calculates the discount amount based on the original price and discount percentage.
+40. Calculate the volume of a cylinder given its radius and height.
+41. Write a Dart program that converts a decimal number to a binary number.
+42. Create a program that calculates the sum of even numbers from 1 to n, where n is a user input.
+43. Calculate the area of a hexagon given its side length.
+44. Implement a program that calculates the compound interest based on principal, rate, time, and frequency.
+45. Write a Dart program that finds the factors of a positive integer.
+46. Create a program that calculates the sum of the digits of a positive integer until a single digit is obtained.
+47. Calculate the area of a rhombus given its diagonals.
+48. Write a Dart program that calculates the greatest common divisor (GCD) of two numbers.
+49. Implement a program that checks if a given year is a leap year using a user input year.
+50. Calculate the volume of a cone given its radius and height.
+51. Create a program that calculates the average of an array of numbers.
+52. Write a Dart program that determines if a number is prime or composite.
+53. Implement a program that finds the factorial of a positive integer.
+54. Calculate the area of a trapezoid using its bases and height.
+55. Write a Dart program that computes the sum of natural numbers up to a user-specified limit.
+56. Create a program that calculates the LCM (Least Common Multiple) of two numbers.
+57. Implement a program that calculates the number of days between two given dates.
+58. Calculate the volume of a rectangular prism (box) given its dimensions.
+59. Write a Dart program that converts a decimal number to its equivalent fraction.
+60. Create a program that checks if a given number is a palindrome.
